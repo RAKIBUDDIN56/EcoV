@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         setContentView(R.layout.activity_main);
         //This is for title
         this.setTitle("Sign In");
+        //TTTT
 
         etEmailSignIn=findViewById(R.id.etEmailSignIn);
         etPasswordSignIn=findViewById(R.id.etPasswordSignIn);
