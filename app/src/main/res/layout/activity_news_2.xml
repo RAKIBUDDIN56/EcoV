@@ -1,9 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#9FEEC0"
     tools:context=".News_2">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/txtfirst"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:clickable="true"
+
+        android:text="*Machu Picchu: Ancient Incan sanctuary intentionally built on faults-"
+        android:textColor="#043349"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="*On Monday, 23 Sept. 2019, at the GSA Annual meeting in Phoenix, Rualdo Menegat, a geologist at Brazil's Federal University of Rio Grande do Sul, will present the results of a detailed geoarchaeological analysis that suggests the Incas intentionally built Machu Picchu -- as well as some of their cities -- in locations where tectonic faults meet."
+
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="*A new way to turn heat into useful energy-"
+
+        android:textColor="#043349"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="Because of this discovery, we should be able to make more electrical energy out of heat than we do today,
+        said study co-author Joseph Heremans, professor of mechanical and aerospace engineering and Ohio Eminent Scholar in Nanotechnology at The Ohio State University."
+
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="*Soft tactile logic' tech distributes decision-"
+
+        android:textColor="#043349"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="making throughout stretchable material-We call this 'soft tactile logic,'
+        and have developed a series of prototypes demonst.At the core of the soft tactile logic prototypes is a common structure: pigments that change color at different temperatures, mixed into a soft, stretchable silicone form. That pigmented silicone contains channels that are filled with metal that is liquid at room temperature, effectively creating a squishy wire nervous system."
+
+        android:textSize="18sp"
+    android:textStyle="bold" />
+
+
+
+</LinearLayout>

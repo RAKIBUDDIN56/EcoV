@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.eco_v">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".News_2"></activity>
+        <activity android:name=".international"></activity>
+        <activity android:name=".News3" />
+        <activity android:name=".MaterialShow" />
+        <activity android:name=".InterNews" />
+        <activity android:name=".News_2" />
         <activity android:name=".Report" />
         <activity android:name=".Reminder" />
         <activity android:name=".News" />
@@ -32,6 +34,7 @@
                 android:value=".HomePage" />
         </activity>
         <activity android:name=".Setting" />
+        <activity android:name=".CustomCalendarView" />
         <activity
             android:name=".HomePage"
             android:label="@string/title_activity_home_page"
@@ -45,5 +48,7 @@
             </intent-filter>
         </activity>
     </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>

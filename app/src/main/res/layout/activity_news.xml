@@ -23,7 +23,7 @@
         android:textStyle="bold" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnNews1"
         android:layout_width="274dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -36,7 +36,7 @@
         android:textStyle="bold" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnNews2"
         android:layout_width="287dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

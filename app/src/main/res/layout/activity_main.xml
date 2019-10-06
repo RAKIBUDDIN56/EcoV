@@ -8,6 +8,8 @@
     android:background="@drawable/backgroun_view3"
     tools:context=".MainActivity">
 
+
+
     <EditText
         android:id="@+id/etEmailSignIn"
         android:layout_width="match_parent"
@@ -160,7 +162,13 @@
         android:textSize="18sp"
         android:textStyle="bold" />
 
-
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>

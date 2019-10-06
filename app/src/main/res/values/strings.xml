@@ -55,7 +55,7 @@
     <string name="paper">Paper</string>
     <string name="food">Food</string>
     <string name="plastic">Plastic</string>
-    <string name="on_the_day_itself">On the day itself</string>
+
     <string name="the_day_before">The day before</string>
     <string name="s">Select the collections for which you want to receive a reminder and the time you want to receive the reminder(s)</string>
     <string name="reminders">Reminders</string>
@@ -72,7 +72,7 @@
     <string name="submit">Submit</string>
     <string name="textview">TextView</string>
     <string name="sign_up">Sign Up</string>
-    <string name="enter_password">Enter password</string>
+    <string name="enter_password2">Enter password</string>
     <string name="enter_email_address">Enter email address</string>
     <string name="enter_your_phone_number">Enter your phone number</string>
     <string name="enter_your_address">Enter your address</string>
@@ -80,7 +80,19 @@
     <string name="search">Search</string>
     <string name="enter_your_city_name">Enter your city name</string>
     <string name="when_is_next_collection_day">When is next collection day?</string>
-    <string name="text">British companies have shipped more than 2.7 million tons of plastic waste to China and Hong Kong since 2012, that’s two-thirds of the UK’s total waste plastic exports.</string>
+
+    <string name="on_the_day_itself">On the day itself</string>
+
+
+    <string name="ok">OK</string>
+    <string name="day_count">Day count</string>
+    <string name="check_in">Check-in</string>
+    <string name="check_out">Check-out</string>
+    <string name="select_date">Select date</string>
+    <string name="clear">Clear</string>
+    <string name="try_adjust">Try adjusting filters or take a look at our suggestions for places nearby!</string>
+    <string name="night_count">%d Night</string>
+    <string name="nights_count">Total count: %d</string>
 
 
 </resources>

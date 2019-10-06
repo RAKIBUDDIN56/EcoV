@@ -128,7 +128,10 @@ public class HomePage extends AppCompatActivity implements NavigationView.OnNavi
         }else if(id == R.id.material){
             startActivity(new Intent(getApplicationContext(),Materials.class));
 
+        }else if(id == R.id.setting) {
+            //startActivity(new Intent(getApplicationContext(), Material.class));
         }
+
 
          else if (id == R.id.news) {
             startActivity(new Intent(getApplicationContext(),News.class));
