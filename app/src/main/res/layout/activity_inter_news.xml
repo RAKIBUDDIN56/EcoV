@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/CYAN"
+    tools:context=".InterNews">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:clickable="true"
+        android:text="Atlantic Ocean may get a jump-start from the other side of the world"
+        android:textColor="#140783"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:text="The new study, from Shineng Hu of the Scripps Institution of Oceanography at the University of California-San Diego and Alexey Fedorov of Yale University, appears Sept. 16 in the journal Nature Climate Change. It is the latest in a growing body of research that explores how global warming may alter global climate components such as the Atlantic meridional overturning circulation (AMOC)."
+        android:textColor="#DDD8E2"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:text="Did mosasaurs do the breast stroke?"
+        android:textColor="#18055A"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:text="We know that mosasaurs most likely used their tails for locomotion. Now we think that they also used their forelimbs, or their tail and forelimbs together,explains lead author Kiersten Formoso, a Ph.D. student in vertebrate paleontology at the University of Southern California. That dual swimming style, she says, could make mosasaurs unique among tetrapods (four limbed creatures), living or extinct."
+        android:textColor="#DDD8E2"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

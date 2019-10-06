@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".international">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="318dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        app:srcCompat="@drawable/mmm" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="265dp"
+        android:text="Previous studies noted that mosasaurs had an unusually large pectoral girdle -- the suite of bones that support the forelimbs. But most assumed the creature's swimming was mainly driven by their long tails, something like alligators or whales. That smooth, long distance-adapted swimming style is called cruising, as opposed to burst motion. Like anything that swims or flies, the laws of fluid dynamics mean that burst versus cruising is a tradeoff,explains co-author Mike Habib, Assistant Professor of Anatomical Sciences at USC. Not many animals are good at both.To dive in more closely on whether mosasaurs were burst-adapted, cruise-adapted, or an unusual balance of both, Formoso and co-authors focused on the oversized pectoral girdle. They studied a fossil Plotosaurus, a type of mosasaur, at the Natural History Museum of Los Angeles County. In addition, they used measurements of mosasaur pectoral girdles published in other studies.
+
+        They determined that the mosasaurs' unusually large and low-placed pectoral girdle supported large muscle attachments. In addition, says Habib, asymmetry in the bone structure is a telltale sign of the strong, inward pull-down motion called adduction. These analyses suggest that mosasaurs used their forelimbs to swim, breast-stroke style, adding powerful bursts of propulsion to their ability to cruise.
+
+        The team continues to model bone structure, morphology, measurements, and fluid dynamics such as drag to learn exactly how, and how fast, these sea monsters swam. Along with applications to biomechanics, and even robotics, say Formoso and Habib, the study also sheds light on how evolution and ecosystems are affected by fluid dynamics." />
+</LinearLayout>

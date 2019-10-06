@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".News3">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/nnn" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1"
+        android:text="On Monday, 23 Sept. 2019, at the GSA Annual meeting in Phoenix, Rualdo Menegat, a geologist at Brazil's Federal University of Rio Grande do Sul, will present the results of a detailed geoarchaeological analysis that suggests the Incas intentionally built Machu Picchu -- as well as some of their cities -- in locations where tectonic faults meet.achu Pichu's location is not a coincidence,says Menegat.t would be impossible to build such a site in the high mountains if the substrate was not fractured.
+
+     Using a combination of satellite imagery and field measurements, Menegat mapped a dense web of intersecting fractures and faults beneath the UNESCO World Heritage Site. His analysis indicates these features vary widely in scale, from tiny fractures visible in individual stones to major, 175-kilometer-long lineaments that control the orientation of some of the region's river valleys.
+
+    Menegat found that these faults and fractures occur in several sets, some of which correspond to the major fault zones responsible for uplifting the Central Andes Mountains during the past eight million years. Because some of these faults are oriented northeast-southwest and others trend northwest-southeast, they collectively create an shape where they intersect beneath Machu Picchu.
+
+    Menegat's mapping suggests that the sanctuary's urban sectors and the surrounding agricultural fields, as well as individual buildings and stairs, are all oriented along the trends of these major faults. The layout clearly reflects the fracture matrix underlying the site, says Menegat. Other ancient Incan cities, including Ollantaytambo, Pisac, and Cusco, are also located at the intersection of faults, says Menegat. Each is precisely the expression of the main directions of the site's geological faults.
+
+    Menegat's results indicate the underlying fault-and-fracture network is as integral to Machu Picchu's construction as its legendary stonework. This mortar-free masonry features stones so perfectly fitted together that it's impossible to slide a credit card between them. As master stoneworkers, the Incas took advantage of the abundant building materials in the fault zone, says Menegat. The intense fracturing there predisposed the rocks to breaking along these same planes of weakness, which greatly reduced the energy needed to carve them."
+
+        android:textColor="#043349"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+
+
+
+
+
+
+</LinearLayout>
